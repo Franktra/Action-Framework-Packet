@@ -7,7 +7,7 @@ The Action Framework is a strategic methodology designed to optimize interaction
 
 ## Three-Step Iterative Process
 The framework revolves around a three-step iterative process:
-1. Goal specification - Clearly stating what you want the AI to generate.
+1. Goal specification - Clearly state what you want the AI to generate.
 2. Action set-up - Framing the AI's role and providing contextual instructions.
 3. Evaluation & refinement - Evaluating the AI’s output and iteratively refining the prompts to get the desired output.
 
